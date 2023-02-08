@@ -10,6 +10,12 @@
 
 [Redo Log两阶段提交](https://github.com/ZH1995/note/blob/main/MySQL/mysql.md#redo-log%E4%B8%A4%E9%98%B6%E6%AE%B5%E6%8F%90%E4%BA%A4)
 
+[索引为什么用N叉树而不用二叉树模型](https://github.com/ZH1995/note/blob/main/MySQL/mysql.md#innodb%E7%B4%A2%E5%BC%95)
+
+[主键索引和非主键索引的区别](https://github.com/ZH1995/note/blob/main/MySQL/mysql.md#innodb%E7%B4%A2%E5%BC%95)
+
+[查询语句如何避免回表](https://github.com/ZH1995/note/blob/main/MySQL/mysql.md#innodb%E7%B4%A2%E5%BC%95)
+
 ## Redis
 
 TODO

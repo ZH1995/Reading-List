@@ -1,14 +1,13 @@
-# 计算机科学知识库
+# Reading List
 
-这是一个用于记录和分享计算机科学相关知识的仓库。
+This repository is used to record the books I have read and the solutions to the after-school exercises.
 
-## 内容
+## Directory Structure
 
-- MySQL
-  - [基础知识](https://github.com/ZH1995/note/blob/main/MySQL/BasicInfo/basicInfo.md)
+- `Programming/`: 编程类书籍
+- `Math/`: 数学类书籍
+- `Literature/`: 文学类书籍
 
-- Redis
-  - TODO
 
 ## 贡献
 

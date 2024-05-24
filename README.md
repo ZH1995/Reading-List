@@ -4,14 +4,14 @@ This repository is used to record the books I have read and the solutions to the
 
 ## Directory Structure
 
-- `Programming/`: 编程类书籍
-- `Math/`: 数学类书籍
-- `Literature/`: 文学类书籍
+- `Programming/`: Programming books
+- `Math/`: Mathematics books
+- `Literature/`: Literary books
 
 
 ## 贡献
 
-如果你有任何想要添加的相关知识，欢迎提交 Pull Request。
+If you have any relevant knowledge you would like to add, please feel free to submit a Pull Request.
 
 ## 许可
 

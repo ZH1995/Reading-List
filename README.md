@@ -9,10 +9,10 @@ This repository is used to record the books I have read and the solutions to the
 - `Literature/`: Literary books
 
 
-## 贡献
+## Contribute
 
 If you have any relevant knowledge you would like to add, please feel free to submit a Pull Request.
 
-## 许可
+## Licenses
 
 [MIT](https://opensource.org/licenses/MIT)
